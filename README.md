@@ -1,3 +1,4 @@
+(We're still figuring out how to modularize this as we're going through multiple githubs and I don't want to make this github a mess)
 # Deepfake Exploration 🕵️‍♂️
 
 A collaborative repository for exploring deepfake generation and detection technologies. We dive into cutting-edge papers, test implementations, run demos, and brainstorm ideas.
@@ -8,27 +9,19 @@ Inspired by the [Awesome Deepfake Generation and Detection](https://github.com/f
 
 ## Papers Reviewed 📖
 
-- [Paper Title 1](link) - Brief note
-- [Paper Title 2](link) - Brief note
-
-## Code Experiments 💻
-
-- Experiment 1: Description
-- Experiment 2: Description
+- [FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images](https://github.com/Thomas-wyh/FuseAnyPart) - 
+- [SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://github.com/neuralchen/SimSwap) 
+- [Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models](https://github.com/minhos0430/REFace) {Code Available} (failed due to OOM, and it was a disaster due to environment conflicts solved)
 
 ## Demos 🎥
 
-- Demo 1: Link or description
+- https://colab.research.google.com/drive/1VCmTuwoYMnwO9cbGVraTCu0FAEAGevXQ#scrollTo=VVcDDse1ktHr
 - Demo 2: Link or description
 
-## Reports and Ideas 💡
-
-- [Report 1](link) - Summary
-- Idea 1: Brief description
 
 ## Contributors 🤝
 
-- [Your Name](link)
+- [Min Ho Sung](github.com/minhos0430)
 - [Friend's Name](link)
 
 ---
